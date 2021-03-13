@@ -2,7 +2,7 @@
 // @id             iitc-plugin-checkpoint-countdown@uid1000
 // @name           IITC plugin: Checkpoint Countdown
 // @category       Info
-// @version        0.0.1.20210311
+// @version        0.0.1.20210312
 // @description    Show the time and ETA to checkpoint, plus the cycle end date/time
 // @updateURL      https://github.com/uid1000/Ingress-Tools/raw/main/checkpoint-countdown.user.js
 // @downloadURL    https://github.com/uid1000/Ingress-Tools/raw/main/checkpoint-countdown.user.js
