@@ -4,8 +4,8 @@
 // @category       Info
 // @version        0.0.1.20210311
 // @description    Show the time and ETA to checkpoint, plus the cycle end date/time
-// @updateURL      https://localhost/checkpoint-countdown.user.js
-// @downloadURL    https://localhost/checkpoint-countdown.user.js
+// @updateURL      https://github.com/uid1000/Ingress-Tools/raw/main/checkpoint-countdown.user.js
+// @downloadURL    https://github.com/uid1000/Ingress-Tools/raw/main/checkpoint-countdown.user.js
 // @include        https://intel.ingress.com/*
 // @match          https://intel.ingress.com/*
 // @grant          none
